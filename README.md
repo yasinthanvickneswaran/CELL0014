@@ -12,13 +12,19 @@ The suggested word count for the report is 2000-2500 words, however word count p
 be applied.
 Your report must include the following parts:
 1. Exploration of Repressor Kinetics used in the Toggle Switch Model
+
+
 i) investigation of expressed protein level under control of repressor, and the meaning of the model
 parameters
 2. Analysis of the Toggle Switch system
+
+
 i) demonstration of bistable behaviour
 ii) exploration of the relationship between co-operativity of repression and system bistability
 iii) Phase space analysis of the system (using simplified reduced model)
 3. Investigation of the experimental Toggle Switch system implemented by Lugange et al.
+
+
 i) simulation of the experimental Toggle Switch using parameters as determined by Lugange et al.
 ii) investigation of this system and its behaviour when simulated stochastically and comparison to the
 deterministic results.
