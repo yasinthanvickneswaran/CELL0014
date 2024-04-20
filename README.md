@@ -1,6 +1,8 @@
 # CELL0014
 
 **Exploration of the Genetic Toggle Switch**
+
+
 Report brief:
 Demonstrate, discuss and evaluate how different modelling work was utilised to explore and
 understand the behaviour of the Genetic Toggle Switch.
