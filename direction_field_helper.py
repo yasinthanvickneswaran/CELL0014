@@ -48,6 +48,8 @@ def draw_direction_field(ax, sdot, params,
     #  some information on their magnitude
     #
     
+    if s0 is None:
+        s0 = [None, None, None, None]
     
     if x_index is None:
         x_index = 0
